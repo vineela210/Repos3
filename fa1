@@ -1,0 +1,9 @@
+hii this is vineela What is JENKINS server used for?
+To execute/build/run automated jobs/pipelines
+What Pipeline?
+Set of stages in cicd
+What is a Job?
+Automated Pipeline
+How do you automate the pipeline?
+Using shell script in operation level and groovy script in Jenkins level
+
